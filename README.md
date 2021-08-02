@@ -19,7 +19,7 @@
 </a>
 
 
-<img left='right' src="https://github-readme-stats.vercel.app/api?username=thanhdat24">
+<img left='right' src="https://github-readme-stats.vercel.app/api?username=thanhdat24&show_icons=true&count_private=true&theme=dark">
 <!--
 **thanhdat24/thanhdat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
