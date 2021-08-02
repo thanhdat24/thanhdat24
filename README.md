@@ -19,8 +19,8 @@
 </a>
 
 
-<img left='center' src="https://github-readme-stats.vercel.app/api?username=thanhdat24&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" style="max-width:100%;">
-<img left='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat24&theme=radical&layout=compact" style="max-width:100%;">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=thanhdat24&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" style="max-width:100%;">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat24&theme=radical&layout=compact" style="max-width:100%;">
 
 <!--
 
