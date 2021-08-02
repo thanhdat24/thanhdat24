@@ -1,7 +1,9 @@
 <h2> Hello there, I'm Đạt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <h2>Connect with me </h2>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com)](mailto:thanhledatomon@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)](mailto:thanhledatomon@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https://www.instagram.com/__thanh.dat__/)](https://www.instagram.com/__thanh.dat__/)
 [![Facebook](https://img.shields.io/facebook/url?label=Facebook&logo=facebook&url=https://www.facebook.com/datle243/)](https://www.facebook.com/datle243/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https://twitter.com/thanhdat24)](https://twitter.com/thanhdat24)
