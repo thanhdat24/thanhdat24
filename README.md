@@ -3,19 +3,19 @@
 <h2>Connect with me </h2>
 
 <a href="mailto:thanhledatomon@gmail.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"/>
 </a>
 
 <a href="https://www.instagram.com/__thanh.dat__/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" style="max-width:100%;"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" style="max-width:100%;"/>
 </a>
 
 <a href="https://www.facebook.com/datle243/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"/>
 </a>
 
 <a href="https://twitter.com/thanhdat24">
-  <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"/>
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"/>
 </a>
 
 
