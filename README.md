@@ -3,7 +3,7 @@
 <h2>Connect with me </h2>
 
 <a href="mailto:thanhledatomon@gmail.com">
-  <img align="left" alt="Gmail" width="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"/>
 </a>
 
 <a href="https://www.instagram.com/__thanh.dat__/">
