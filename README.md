@@ -2,9 +2,14 @@
 
 <h2>Connect with me </h2>
 
-<a>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com/)](mailto:thanhledatomon@gmail.com)</a>
+<a href="mailto:thanhledatomon@gmail.com">
+  <img align="left" alt="Gmail" width="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<a>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https://www.instagram.com/__thanh.dat__/)](https://www.instagram.com/__thanh.dat__/) </a>
+<a href="https://www.instagram.com/__thanh.dat__/">
+  <img align="left" alt="Instagram" width="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
 
 <a>[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https://www.facebook.com/datle243/)](https://www.facebook.com/datle243/)</a>
 
