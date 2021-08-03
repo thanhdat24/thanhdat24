@@ -1,4 +1,10 @@
 <h2> Hello there, I'm Đạt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<ul>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently student at <a href="https://www.uit.edu.vn/" rel="nofollow">Can Tho University</a></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> ’m currently learning <code>Node.js</code></li>
+<li><g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> In my free time, I <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤</g-emoji> to teach people about code!</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>Ask me about <strong>Anything or related to programming languages</strong></li>
+</ul>
 
 <h2>Connect with me </h2>
 
