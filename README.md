@@ -28,8 +28,8 @@
 
 <div style="display: flex;">
   <a href="https://github.com/thanhdat24">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thanhdat24&theme=radical&show_icons=true&count_private=true&line_height=25"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat24&theme=radical&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thanhdat24&theme=radical&show_icons=true&count_private=true&line_height=25"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat24&theme=radical&layout=compact"/>
 </div>
 
 <h2><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Technical Skills</h2>
